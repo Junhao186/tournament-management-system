@@ -22,7 +22,7 @@
     "primevue": "^4.0.7",
     "sweetalert2": "^11.6.13",
     "tournamentsystemfrontend": "file:",
-    "vue": "^3.4.29",
+    "vue": "^3.5.12",
     "vue-cookies": "^1.8.4",
     "vue-router": "^4.3.3",
     "vue-sweetalert2": "^5.0.11"
