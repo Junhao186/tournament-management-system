@@ -19,7 +19,7 @@
     "axios": "^1.5.1",
     "bootstrap": "^5.3.3",
     "pinia": "^2.1.7",
-    "primevue": "^4.0.7",
+    "primevue": "^4.1.1",
     "sweetalert2": "^11.6.13",
     "tournamentsystemfrontend": "file:",
     "vue": "^3.4.29",
